@@ -1,0 +1,56 @@
+﻿@model IEnumerable<CatalogoProductos.Models.Producto>
+
+<h2>Lista de Productos</h2>
+
+<form method="get">
+    <div class="row mb-3">
+
+        <div class="col-md-4">
+            <input type="text"
+                   name="categoria"
+                   class="form-control"
+                   placeholder="Buscar categoría" />
+        </div>
+
+        <div class="col-md-2">
+            <button type="submit"
+                    class="btn btn-primary">
+                Buscar
+            </button>
+        </div>
+
+    </div>
+</form>
+
+<table class="table table-striped">
+
+    <thead>
+
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Categoría</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th>Fecha</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.Categoria</td>
+                <td>@item.Precio</td>
+                <td>@item.Stock</td>
+                <td>@item.FechaRegistro.ToShortDateString()</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

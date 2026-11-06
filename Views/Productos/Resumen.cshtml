@@ -1,0 +1,26 @@
+﻿@model IEnumerable<CatalogoProductos.Models.ResumenCategoria>
+
+<h2>Resumen por Categoría</h2>
+
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Categoría</th>
+            <th>Cantidad</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Categoria</td>
+                <td>@item.Cantidad</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

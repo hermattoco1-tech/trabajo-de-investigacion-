@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\views\\productos\\resumen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:views\\productos\\resumen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\models\\resumencategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:models\\resumencategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|c:\\users\\matthew hernandez\\onedrive\\documentos\\visual studio 2022\\webapplication1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6922C4-D5D1-436B-97F1-E132C3C5A855}|CatalogoProductos.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwHUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T06:04:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T06:01:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resumen.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Resumen.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Resumen.cshtml",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Resumen.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Resumen.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T05:55:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumenCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\ResumenCategoria.cs",
+              "RelativeDocumentMoniker": "Models\\ResumenCategoria.cs",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\ResumenCategoria.cs",
+              "RelativeToolTip": "Models\\ResumenCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T05:48:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T05:08:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:53:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T05:38:37.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:45:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T04:43:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:21:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Matthew Hernandez\\OneDrive\\Documentos\\Visual Studio 2022\\WebApplication1\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:16:03.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
